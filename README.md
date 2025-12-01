@@ -1,2 +1,2 @@
-# Baza podataka SQL
+# SQL baza podataka
 
